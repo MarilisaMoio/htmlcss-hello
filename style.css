@@ -2,3 +2,11 @@
     color: violet;
     font-size: 50px;
 }
+
+footer > p{
+    font-size: 12px;
+}
+
+.colorfooter{
+    color: rgb(255, 143, 5);
+}
